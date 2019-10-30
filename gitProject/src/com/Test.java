@@ -5,6 +5,8 @@ public class Test {
 		System.out.println("zuzhang create");
         System.out.println("zuyuan1");
         System.out.println("zuyuan2");
+        System.out.println("fuhao");
+        
 	}
 
 }
